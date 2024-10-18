@@ -12,7 +12,7 @@ Model Accuracy: Achieves 65% accuracy.
 
 # Quick Start
 Clone the repository:
-git clone https://github.com/hasnain23233/Computer-Vision-/tree/main
+git clone https://github.com/hasnain23233/Computer-Vision-/blob/main/Conmputer%20Vision%20Project.ipynb
 
 Install dependencies:
 pip install -r requirements.txt
