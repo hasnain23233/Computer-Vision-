@@ -1,13 +1,14 @@
-<H1>Facial Expression Detection using CNN</H1>
-This project uses a convolutional neural network (CNN) to detect facial expressions from images, achieving 65% accuracy. The dataset is sourced from Kaggle, and the model is built using Python, TensorFlow/Keras.
+<H1>Computer Vision - Facial Expression Detection</H1>
+This project demonstrates how to detect facial expressions using a convolutional neural network (CNN) in Python. The model is trained on labeled facial images to classify seven different emotions, achieving accurate results using TensorFlow/Keras and OpenCV..
 
 # Overview
-The goal is to classify seven facial expressions (happy, sad, angry, etc.) using a CNN. The dataset is preprocessed to enhance model performance, including image resizing, normalization, and augmentation.
+The goal of this project is to build a machine learning model that classifies facial expressions into categories like happiness, sadness, anger, and more. The model uses a CNN architecture and is trained on a dataset of facial images from various sources.
 
 # Key Features
 Facial Expression Classification: Detects emotions from facial images.
+Deep Learning Model: Implements a CNN using TensorFlow/Keras for expression detection.
+Image Preprocessing: Images are resized, normalized, and augmented to improve model performance.
 Model Accuracy: Achieves 65% accuracy.
-Built with: TensorFlow/Keras, Python, OpenCV.
 
 # Quick Start
 Clone the repository:
