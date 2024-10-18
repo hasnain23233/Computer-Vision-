@@ -12,7 +12,7 @@ Model Accuracy: Achieves 65% accuracy.
 
 # Quick Start
 Clone the repository:
-git clone https://github.com/yourusername/Facial-Expression-Detection.git
+git clone https://github.com/hasnain23233/Computer-Vision-/tree/main
 
 Install dependencies:
 pip install -r requirements.txt
